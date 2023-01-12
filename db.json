@@ -1,12 +1,20 @@
 {
   "features": [
-    {"sortKey": 1,"id": "37E4163AF39F474FBA76E96310A4B04D" ,"name": "Feature", "icon":  "fa-solid fa-bug", "displayText":  "", "routeName": "", "toolTip": "info about this link", "parentId":  null, "isActive": true, "created":  "2012-04-23T18:25:43.511Z", "updated": null},
-    {"sortKey": 2,"id": "753FDA32F61F437F96BFE070B3948589" ,"name": "Feature", "icon":  "fa-solid fa-bug", "displayText":  "", "routeName": "", "toolTip": "info about this link", "parentId":  null, "isActive": true, "created":  "2012-04-23T18:25:43.511Z", "updated": null},
-    {"sortKey": 3,"id": "330FF1A5F18747A38A3E25C6C5EE17CE" ,"name": "Feature", "icon":  "fa-solid fa-bug", "displayText":  "", "routeName": "", "toolTip": "info about this link", "parentId":  null, "isActive": true, "created":  "2012-04-23T18:25:43.511Z", "updated": null}
+    {"sortKey": 1,"id": "37E4163AF39F474FBA76E96310A4B04D" ,"name": "Feature", "icon":  "fa-solid fa-bug", "displayText":  "", "routeName": "", "toolTip": "info about this link", "parentId":  null, "isActive": true, "sortOrder": 1, "created":  "2012-04-23T18:25:43.511Z", "updated": null},
+    {"sortKey": 2,"id": "753FDA32F61F437F96BFE070B3948589" ,"name": "Feature", "icon":  "fa-solid fa-bug", "displayText":  "", "routeName": "", "toolTip": "info about this link", "parentId":  null, "isActive": true, "sortOrder": 2, "created":  "2012-04-23T18:25:43.511Z", "updated": null},
+    {"sortKey": 3,"id": "330FF1A5F18747A38A3E25C6C5EE17CE" ,"name": "Feature", "icon":  "fa-solid fa-bug", "displayText":  "", "routeName": "", "toolTip": "info about this link", "parentId":  null, "isActive": true, "sortOrder": 3, "created":  "2012-04-23T18:25:43.511Z", "updated": null}
   ],
   "people": [],
   "roles": [],
   "animals": [],
   "breeds": [],
-  "organisations": []
+  "organisations": [],
+  "tenants": [],
+  "tenantSettings": [],
+  "tenantLedger": [],
+  "events": [],
+  "products": [],
+  "donationLedger": [],
+  "sponsorshipLedger": [],
+  "settings": []
 }
